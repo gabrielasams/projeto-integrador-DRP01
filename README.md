@@ -36,21 +36,24 @@ _Read this in other languages:_
 Trata-se de uma atividade curricular obrigatória que consiste na resolução de um problema real contextualizado na profissão em que o curso de Bacharelado em Tecnologia da Informação está inserido.​
 Em grupo, tivemos que delimitar um problema a partir do tema norteador da disciplina, propondo uma solução aplicável e usando os conhecimentos estudados nas disciplinas cursadas até o momento.
 
-Tema norteador: desenvolvimento de um software com framework web que utilize noções de banco de dados, praticando controle de versão.
+<b>Tema norteador:</b> desenvolvimento de um software com framework web que utilize noções de banco de dados, praticando controle de versão.
 
-Tema escolhido pelo grupo com base no tema norteador da Univesp: desenvolvimento de um software com framework web para a divulgação de portfólio de profissionais autônomos de vários segmentos, utilizando de banco de dados para o armazenamento de informações e controle de versão para registro da evolução do grupo.
+<b>Tema escolhido pelo grupo com base no tema norteador da Univesp:</b> desenvolvimento de um software com framework web para a divulgação de portfólio de profissionais autônomos de vários segmentos, utilizando de banco de dados para o armazenamento de informações e controle de versão para registro da evolução do grupo.
 
-Título: 
+<b>Título:</b> 
 
-Orientador: Carlos Alan Vieira Do Nascimento 
+<b>Orientador:</b> Carlos Alan Vieira Do Nascimento 
 
-Integrantes: Gabriela Sampaio da Silva, Gustavo Santos Lima de Oliveira, Ivani Santos André, Jacqueline Santana Nascimento Benevides, Leonardo Quaresma da Silva, Maria José de Sousa, Rodolfo Felix de Azevedo e Victor Gabriel Santos Magalhães 
+<b>Integrantes:</b> Gabriela Sampaio da Silva, Gustavo Santos Lima de Oliveira, Ivani Santos André, Jacqueline Santana Nascimento Benevides, Leonardo Quaresma da Silva, Maria José de Sousa, Rodolfo Felix de Azevedo e Victor Gabriel Santos Magalhães 
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
 <h3 id="features">Metodologia</h3>
 
-
+Linguagem de programação: [Python](https://www.python.org/)
+Framework Web: [Flask](https://flask.palletsprojects.com/en/stable/)
+Banco de dados: [MySQL](https://www.mysql.com/)
+Controle de versões: [GitHub](https://docs.github.com/pt)
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
