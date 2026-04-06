@@ -52,7 +52,7 @@ Em grupo, tivemos que delimitar um problema a partir do tema norteador da discip
 
 - Linguagem de programação: [Python](https://www.python.org/)
 - Framework Web: [Flask](https://flask.palletsprojects.com/en/stable/)
-- Banco de dados: [MySQL](https://www.mysql.com/)
+- Banco de dados: [MySQL](https://www.mysql.com/), [Figma](https://www.figma.com/) e [Excel](https://excel.cloud.microsoft/)
 - Controle de versões: [GitHub](https://docs.github.com/pt)
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
