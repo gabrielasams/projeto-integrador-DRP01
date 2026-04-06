@@ -40,7 +40,7 @@ Em grupo, tivemos que delimitar um problema a partir do tema norteador da discip
 
 <b>Tema escolhido pelo grupo com base no tema norteador da Univesp:</b> desenvolvimento de um software com framework web para a divulgação de portfólio de profissionais autônomos de vários segmentos, utilizando de banco de dados para o armazenamento de informações e controle de versão para registro da evolução do grupo.
 
-<b>Título:</b> Como conectar profissionais autônomos de fotografia com novos clientes.
+<b>Título:</b> FOTECTA - Como conectar fotógrafos profissionais com novos clientes
 
 <b>Orientador:</b> Carlos Alan Vieira Do Nascimento 
 
